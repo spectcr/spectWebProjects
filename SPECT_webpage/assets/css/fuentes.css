@@ -1,0 +1,26 @@
+/*--------------------BEBASNEUE--------------------*/
+@font-face {
+    font-family:BebasNeue-Regular;
+    src: url(../fuentes/BebasNeue-Regular.ttf) format('truetype');
+}
+
+/*--------------------GIBSON--------------------*/
+@font-face {
+    font-family:Gibson-Regular;
+    src: url(../fuentes/Gibson/Gibson.ttf) format('truetype');
+}@font-face {
+    font-family:Gibson-Bold;
+    src: url(../fuentes/Gibson/Gibson-bold.ttf) format('truetype');
+}
+
+/*--------------------MONTSERRAT--------------------*/
+@font-face {
+    font-family:Montserrat-Regular;
+    src: url(../fuentes/Montserrat/Montserrat-Regular.ttf) format('truetype');
+}@font-face {
+    font-family:Montserrat-Light;
+    src: url(../fuentes/Montserrat/Montserrat-Light.ttf) format('truetype');
+}@font-face {
+    font-family:Montserrat-SemiBold;
+    src: url(../fuentes/Montserrat/Montserrat-SemiBold.ttf) format('truetype');
+}

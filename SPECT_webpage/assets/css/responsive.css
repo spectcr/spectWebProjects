@@ -1,0 +1,1228 @@
+/* ------------------------------------------------------------------------------------------ */
+/* ---------------------------------------- WEB LOADER -------------------------------------- */
+/* ------------------------------------------------------------------------------------------ */
+@media screen and (max-width: 1290px){
+    .logoWelcome {
+        width: 30%;
+    }
+}
+@media screen and (max-width: 615px){
+    .logoWelcome {
+        width: 35%;
+    }
+}
+@media screen and (max-width: 419px){
+    .logoWelcome {
+        margin: 50% auto 2% auto;
+        width: 40%;
+    }
+}
+
+/* ------------------------------------------------------------------------------------------ */
+/* ---------------------------------------- MENU BARS --------------------------------------- */
+/* ------------------------------------------------------------------------------------------ */
+@media screen and (max-width: 720px){
+    .menu{
+        opacity: 0;
+        transition: 1s ease-in-out;
+        display: none;
+    }
+    .toggle{
+        opacity: 1;
+        visibility: visible;
+    }
+}
+
+
+    
+/* ------------------------------------------------------------------------------------------ */
+/* ---------------------------------------- INDEX ------------------------------------------- */
+/* ------------------------------------------------------------------------------------------ */
+
+/*---------------------------------1366 WIDTH-------------------------*/
+@media screen and (max-width: 1366px){
+    .SPECT-tittle-Index-container {
+        margin-top: 15%;
+    }
+    .logo-container{
+        margin-left: 10%;
+    }
+    .menu{
+        margin-right: 5%;
+    }
+
+    .index-tittle {
+        margin: 2% auto 3% auto;
+    }
+    .web-page-index-img {
+        width: 40% !important;
+    }
+    .tittle {
+        font-size: 30px;
+        padding: 0.5%;
+    }
+}
+
+/*---------------------------------1290 WIDTH-------------------------*/
+@media screen and (max-width: 1290px){
+    .logo-container {
+        margin-left: 15%;
+    }
+    .menu {
+        margin-right: 10%;
+    }
+    .container-slider {
+        height: 640px;
+    }
+    .index-tittle {
+        margin: 3% auto 3% auto;
+    }
+    .A-image {
+        width: 30%;
+    }
+    .footer-links img {
+        width: 30px;
+    }
+    .tittle {
+        font-size: 30px;
+        padding: 1.5%;
+    }
+}
+
+/*---------------------------------1090 WIDTH-------------------------*/
+@media screen and (max-width: 1090px){
+    .menu a {
+        font-size: 15px;
+    }
+    .SPECT-tittle-Index-container {
+        margin-top: 20%;
+    }
+    .tittle {
+        width: 30%;
+        font-size: 30px;
+    }
+    .A-element {
+        font-size: 14px;
+    }
+    .A-image {
+        width: 25%;
+    }
+    .A-element-button {
+        font-size: 15px;
+        width: 15%;
+    }
+    .B-element {
+        font-size: 14px;
+    }
+    .PC-index-img {
+        width: 30% !important;
+    }
+    .B-element-button {
+        width: 15%;
+        font-size: 15px;
+    }
+    .footer {
+        font-size: 12px;
+    }
+}
+
+/*---------------------------------900 WIDTH-------------------------*/
+@media screen and (max-width: 900px){
+    .container-header {
+        height: 80px;
+    }
+    .menu {
+        height: 80px;
+    }
+    .menu a {
+        font-size: 12px;
+    }
+    .logo-container {
+        margin-left: 12%;
+        height: 80px;
+    }
+    .logo-header {
+        height: 50px;
+    }
+    .SPECT-tittle-Index h1 {
+        font-size: 45px;
+    }
+    .SPECT-tittle-Index h2 {
+        font-size: 20px;
+    }
+    .container-slider {
+        height: 530px;
+    }
+    .slider-section {
+        margin-top: 80px;
+    }
+    .tittle {
+        font-size: 20px;
+    }
+    .A-tittle {
+        font-size: 40px;
+    }
+    .A-element {
+        font-size: 12px;
+    }
+    .A-element-button {
+        font-size: 12px;
+    }
+    .B-tittle {
+        font-size: 40px;
+    }
+    .B-element {
+        font-size: 12px;
+    }
+    .B-element-button {
+        font-size: 12px;
+    }
+    .footer-links img {
+        width: 25px;
+    }
+    .footer {
+        font-size: 11px;
+    }
+    .copyright {
+        font-size: 11px;
+    }
+}
+
+/*---------------------------------815 WIDTH-------------------------*/
+@media screen and (max-width: 815px){
+    .container-slider {
+        height: 500px;
+    }
+    .A-image {
+        width: 30%;
+    }
+    .PC-index-img {
+        width: 35% !important;
+        margin: auto auto 2% auto;
+    }
+    .web-page-index-img {
+        width: 45% !important;
+    }
+}
+
+/*---------------------------------720 WIDTH-------------------------*/
+@media screen and (max-width: 720px){
+    .Sector-A {
+        min-height: 60vh;
+    }
+    .Sector-B {
+        min-height: 60vh;
+    }
+    .batocera-index-img {
+        width: 35% !important;
+    }
+    .PC-index-img {
+        width: 40% !important;
+    }
+    .web-page-index-img {
+        width: 60% !important;
+    }
+    .A-element-button {
+        padding: 2%;
+        width: 25%;
+        font-size: 15px;
+    }
+    .B-element-button {
+        padding: 2%;
+        width: 25%;
+        font-size: 15px;
+    }
+}
+
+/*---------------------------------615 WIDTH-------------------------*/
+@media screen and (max-width: 615px){
+    .SPECT-tittle-Index-container {
+        margin-top: 30%;
+    }
+    .SPECT-tittle-Index h1 {
+        font-size: 40px;
+    }
+    .SPECT-tittle-Index h2 {
+        font-size: 18px;
+    }
+    .batocera-index-img {
+        width: 40% !important;
+    }
+    .A-element-button {
+        font-size: 12px;
+        width: 20%;
+        padding: 2%;
+    }
+    .PC-index-img {
+        width: 50% !important;
+    }
+    .web-page-index-img {
+        width: 70% !important;
+    }
+    .B-element-button {
+        width: 20%;
+        font-size: 12px;
+        padding: 2%;
+    }
+}
+
+
+/*---------------------------------419 WIDTH -------------------------*/
+/* (SM-S9/S8) */
+@media screen and (max-width: 419px){
+    .container-header {
+        height: 70px;
+    }
+    .logo-header {
+        height: 40px;
+    }
+    .logo-container {
+        height: 75px;
+    }
+    .toggle {
+        right: 50px;
+        width: 40px;
+        height: 40px;
+        top: 15px;
+    }
+    .toggle span:nth-child(1) {
+        right: 7px;
+    }
+    .toggle span:nth-child(2) {
+        right: 18px;
+    }
+    .toggle.active span:nth-child(2) {
+        right: 7px;
+    }
+    .menu-elements nav a {
+        font-size: 14px;
+    }
+    .slider-section {
+        margin-top: 70px;
+    }
+    .container-slider {
+        height: 460px;
+    }
+    .SPECT-tittle-Index-container {
+        margin-top: 40%;
+    }
+    .tittle {
+        width: 50%;
+    }
+    .Sector-A {
+        min-height: unset;
+    }
+    .A-tittle {
+        font-size: 30px;
+    }
+    .A-element {
+        font-size: 10px;
+    }
+    .A-image {
+        width: 50%;
+        margin: 2% auto;
+    }
+    .batocera-index-img {
+        width: 60% !important;
+    }
+    .A-element-button {
+        font-size: 12px;
+        width: 35%;
+        padding: 4%;
+    }
+    .Sector-B {
+        min-height: unset;
+    }
+    .B-tittle {
+        font-size: 30px;
+    }
+    .B-element {
+        font-size: 10px;
+    }
+    .PC-index-img {
+        width: 75% !important;
+    }
+    .B-element-button {
+        font-size: 12px;
+        width: 35%;
+        padding: 4%;
+    }
+    .web-page-index-img {
+        width: 85% !important;
+    }
+    .footer {
+        font-size: 9px;
+    }
+    .copyright {
+        font-size: 9px;
+    }
+}
+
+/* ------------------------------------------------------------------------------------------ */
+/* ---------------------------------------- PRODUCTS ---------------------------------------- */
+/* ------------------------------------------------------------------------------------------ */
+
+/*---------------------------------1366 WIDTH-------------------------*/
+@media screen and (max-width: 1366px){
+    .SPECT-tittle-products-container {
+        margin-top: 15%;
+    }
+}
+
+/*---------------------------------1290 WIDTH-------------------------*/
+@media screen and (max-width: 1290px){
+    .A-image {
+        width: 25%;
+    }
+}
+
+/*---------------------------------1090 WIDTH-------------------------*/
+@media screen and (max-width: 1090px){
+    /* NOTHING */
+}
+
+/*---------------------------------900 WIDTH-------------------------*/
+@media screen and (max-width: 900px){
+    .SPECT-tittle-products h1 {
+        font-size: 45px;
+    }
+    .SPECT-tittle-products h2 {
+        font-size: 20px;
+    }
+}
+
+/*---------------------------------815 WIDTH-------------------------*/
+@media screen and (max-width: 815px){
+    .SPECT-tittle-products-container {
+        margin-top: 20%;
+    }
+    .A-image {
+        width: 30%;
+    }
+}
+
+/*---------------------------------720 WIDTH-------------------------*/
+@media screen and (max-width: 720px){
+    /* NOTHING */
+}
+
+/*---------------------------------615 WIDTH-------------------------*/
+@media screen and (max-width: 615px){
+    .SPECT-tittle-products-container {
+        margin-top: 30%;
+    }
+}
+
+/*---------------------------------419 WIDTH -------------------------*/
+/* (SM-S9/S8) */
+@media screen and (max-width: 419px){
+    
+}
+
+/* ------------------------------------------------------------------------------------------ */
+/* ---------------------------------------- SERVICES ---------------------------------------- */
+/* ------------------------------------------------------------------------------------------ */
+
+/*---------------------------------1366 WIDTH-------------------------*/
+@media screen and (max-width: 1366px){
+    .service-tittle {
+        font-size: 50px !important;
+    }
+    .service-details {
+        max-width: 45%;
+    }
+    .A-services-description {
+        font-size: 15px;
+        text-align: justify;
+    }
+    .web-development-img {
+        width: 45%;
+    }
+    .A-services-element-button {
+        padding: 25px;
+        width: 250px;
+    }
+    .B-services-description {
+        font-size: 15px;
+        margin: 2% auto auto 0;
+        text-align: JUSTIFY;
+        line-height: 30px;
+    }
+    .B-services-element-button {
+        padding: 25px;
+        width: 250px;
+    }
+    .graphic-design-img {
+        width: 35%;
+    }
+}
+
+/*---------------------------------1290 WIDTH-------------------------*/
+@media screen and (max-width: 1290px){
+    /* NOTHING */
+}
+
+/*---------------------------------1090 WIDTH-------------------------*/
+@media screen and (max-width: 1090px){
+    .SPECT-tittle-Services-container {
+        margin-top: 15%;
+    }
+    .tittle {
+        width: 40%;
+        font-size: 30px;
+    }
+    /* Hide the distribution in HTML */
+    .non-cascade{
+        opacity: 0;
+        visibility: hidden;
+        height: 0px;
+        margin: 0 !important;
+    }
+    /* Show the alternative distribution in HTML */
+    .cascade{
+        opacity: 1;
+        visibility: visible;
+        height: auto;
+    }
+    .service-container {
+        flex-direction: column;
+    }
+    .service-tittle {
+        text-align: center;
+        margin: 4% auto;
+        font-size: 70px !important;
+    }
+    .web-development-img {
+        width: 55%;
+    }
+    .A-services-description {
+        width: 60%;
+        margin: 4% auto;
+        font-size: 15px;
+        text-align: justify;
+    }
+    .A-services-element-button {
+        margin: auto !important;
+    }
+
+    .B-services-description {
+        width: 60%;
+        margin: 4% auto;
+        font-size: 15px;
+        text-align: justify;
+    }
+    .graphic-design-img {
+        width: 45%;
+    }
+    .container-ps3-slider {
+        width: 50%;
+    }
+    .B-services-element-button {
+        margin: auto !important;
+    }
+    .PC-service-img {
+        margin: auto !important;
+        width: 40%;
+    }
+    .ps2-img {
+        width: 50%;
+    }
+    .wii-img {
+        width: 50%;
+    }
+    .consoles-service-img {
+        width: 45%;
+    }
+    .B-services-element-button {
+        font-size: 16px;
+    }
+    .A-services-element-button {
+        font-size: 16px;
+    }
+}
+
+/*---------------------------------900 WIDTH-------------------------*/
+@media screen and (max-width: 900px){
+    .SPECT-tittle-Services-container {
+        margin-top: 20%;
+    }
+    .SPECT-tittle-Services h1 {
+        font-size: 50px;
+    }
+    .SPECT-tittle-Services h2 {
+        font-size: 20px;
+    }
+    .web-development-img {
+        width: 60%;
+    }
+    .tittle {
+        font-size: 25px;
+    }
+    .service-tittle {
+        font-size: 50px !important;
+    }
+    .A-services-description {
+        line-height: 25px;
+        font-size: 15px;
+    }
+    .B-services-description {
+        line-height: 25px;
+        font-size: 15px;
+    }
+    .A-services-element-button {
+        padding: 15px;
+        width: 200px;
+    }
+    .B-services-element-button {
+        padding: 15px;
+        width: 200px;
+    }
+    .wii-img {
+        margin: auto !important;
+    }
+}
+
+/*---------------------------------815 WIDTH-------------------------*/
+@media screen and (max-width: 815px){
+    /* NOTHING */
+}
+
+/*---------------------------------720 WIDTH-------------------------*/
+@media screen and (max-width: 720px){
+    .tittle {
+        width: 55%;
+        font-size: 30px;
+    }
+}
+
+/*---------------------------------615 WIDTH-------------------------*/
+@media screen and (max-width: 615px){
+    .SPECT-tittle-Services-container {
+        margin-top: 30%;
+    }
+    .tittle {
+        font-size: 25px;
+    }
+    .container-ps3-slider {
+        width: 70%;
+    }
+    .web-development-img {
+        width: 80%;
+    }
+    .graphic-design-img {
+        width: 70%;
+    }
+    .PC-service-img {
+        width: 65%;
+    }
+    .ps2-img {
+        width: 70%;
+    }
+    .wii-img {
+        width: 70%;
+    }
+    .consoles-service-img {
+        width: 70%;
+    }
+}
+
+/*---------------------------------419 WIDTH -------------------------*/
+@media screen and (max-width: 419px){
+    .SPECT-tittle-Services-container {
+        margin-top: 40%;
+    }
+    .sector-A-services {
+        padding-top: 60px;
+    }
+    .service-tittle {
+        font-size: 30px !important;
+    }
+    .A-services-description {
+        line-height: 25px;
+        font-size: 12px;
+    }
+    .tittle {
+        width: 65%;
+        font-size: 25px;
+    }
+    .B-services-description {
+        line-height: 25px;
+        font-size: 12px;
+    }
+    .ps2-img {
+        width: 80%;
+    }
+    .PC-service-img {
+        width: 75%;
+    }
+    .wii-img {
+        width: 80%;
+    }
+    .last-service {
+        margin-bottom: 24px !important;
+    }
+}
+
+/* ------------------------------------------------------------------------------------------ */
+/* ---------------------------------------- CONTACT US -------------------------------------- */
+/* ------------------------------------------------------------------------------------------ */
+@media screen and (max-width: 1366px){
+    .contact-us-element {
+        margin: 10% 10%;
+    }
+}
+
+/*---------------------------------1290 WIDTH-------------------------*/
+@media screen and (max-width: 1290px){
+    .SPECT-tittle-contacto-container {
+        margin-top: 15%;
+    }
+}
+
+/*---------------------------------1090 WIDTH-------------------------*/
+@media screen and (max-width: 1090px){
+    /* NOTHING */
+}
+
+/*---------------------------------900 WIDTH-------------------------*/
+@media screen and (max-width: 900px){
+    .SPECT-tittle-contacto h1 {
+        font-size: 50px;
+    }
+    .SPECT-tittle-contacto h2 {
+        font-size: 20px;
+    }
+    .SPECT-tittle-contacto-container {
+        margin-top: 20%;
+    }
+    .contact-us-form h1 {
+        width: 250px;
+        font-size: 20px;
+    }
+}
+
+/*---------------------------------815 WIDTH-------------------------*/
+@media screen and (max-width: 815px){
+    .contact-us-element {
+        flex-direction: column-reverse;
+    }
+    .contact-us-media-img {
+        width: 70%;
+    }
+    .contact-us-links {
+        width: 100%;
+    }
+    .contact-us-links li {
+        height: 100px;
+    }
+    .contact-us-photo {
+        width: 0%;
+    }
+    .contact-us-form {
+        width: 100%;
+    }
+}
+
+/*---------------------------------720 WIDTH-------------------------*/
+@media screen and (max-width: 720px){
+    /* NOTHING */
+}
+
+/*---------------------------------615 WIDTH-------------------------*/
+@media screen and (max-width: 615px){
+    /* NOTHING */
+}
+
+/*---------------------------------419 WIDTH -------------------------*/
+@media screen and (max-width: 419px){
+    .SPECT-tittle-contacto-container {
+        margin-top: 40%;
+    }
+    .contact-us-element {
+        margin: 10% 5%;
+    }
+    .contact-us-form {
+        padding: 20px;
+    }
+    .contact-us-media-img {
+        width: 90%;
+    }
+}
+
+/* ----------------------------------------------------------------------------------------------- */
+/* ---------------------------------------- INSIDE PRODUCTS -------------------------------------- */
+/* ----------------------------------------------------------------------------------------------- */
+
+/* ---------------------------------------- BATOCERA -------------------------------------- */
+/*---------------------------------1366 WIDTH-------------------------*/
+@media screen and (max-width: 1366px){
+    .links-contact-product {
+        width: 40%;
+    }
+}
+
+/*---------------------------------1290 WIDTH-------------------------*/
+@media screen and (max-width: 1290px){
+    /* NOTHING */
+}
+
+/*---------------------------------1090 WIDTH-------------------------*/
+@media screen and (max-width: 1090px){
+    .Batocera-floating-container{
+        visibility: hidden;
+        opacity: 0;
+        display: none;
+    }
+    .Batocera-mobile-container{
+        visibility: visible;
+        opacity: 1;
+        display: block;
+    }
+}
+
+/*---------------------------------900 WIDTH-------------------------*/
+@media screen and (max-width: 900px){
+    .product-tittle {
+        width: 70%;
+        font-size: 40px;
+    }
+    .product-details {
+        width: 80%;
+        margin: auto;
+    }
+    .product-image {
+        width: 100%;
+    }
+    .product-image-Batocera {
+        width: 60%;
+    }
+    .tittle-product-contact {
+        font-size: 40px;
+    }
+    .links-contact-product {
+        width: 50%;
+    }
+}
+
+/*---------------------------------815 WIDTH-------------------------*/
+@media screen and (max-width: 815px){
+    /* NOTHING */
+}
+
+/*---------------------------------720 WIDTH-------------------------*/
+@media screen and (max-width: 720px){
+    .links-contact-product {
+        width: 60%;
+    }
+    .product-email-link {
+        width: 35px;
+        margin: 10px;
+    }
+    .product-messenger-link {
+        width: 35px;
+        margin: 10px;
+    }
+    .product-whatsapp-link {
+        width: 35px;
+        margin: 10px;
+    }
+}
+
+/*---------------------------------615 WIDTH-------------------------*/
+@media screen and (max-width: 615px){
+    .links-contact-product a {
+        width: 100px;
+        font-size: 12px;
+    }
+}
+
+/*---------------------------------419 WIDTH -------------------------*/
+@media screen and (max-width: 419px){
+    .product-tittle {
+        width: 90%;
+        font-size: 30px;
+    }
+    .product-description {
+        font-size: 12px;
+    }
+    .tittle-product-contact {
+        font-size: 30px;
+    }
+    .links-contact-product {
+        width: 70%;
+    }
+    .links-contact-product a {
+        width: 80px;
+        font-size: 12px;
+    }
+    .batocera-container {
+        margin: 100px auto auto auto;
+    }
+}
+
+/* ----------------------------------------------------------------------------------------------- */
+/* ---------------------------------------- INSIDE SERVICES -------------------------------------- */
+/* ----------------------------------------------------------------------------------------------- */
+
+/* ---------------------------------------- WEB DEVELOPMENT -------------------------------------- */
+/*---------------------------------1366 WIDTH-------------------------*/
+@media screen and (max-width: 1366px){
+
+}
+
+/*---------------------------------1290 WIDTH-------------------------*/
+@media screen and (max-width: 1290px){
+    .links-contact-service {
+        width: 40%;
+    }
+}
+
+/*---------------------------------1090 WIDTH-------------------------*/
+@media screen and (max-width: 1090px){
+    .inside-service-tittle {
+        width: 70%;
+    }
+    .inside-service-details {
+        width: 70%;
+    }
+}
+
+/*---------------------------------900 WIDTH-------------------------*/
+@media screen and (max-width: 900px){
+    .inside-service-tittle {
+        font-size: 30px;
+    }
+    .inside-service-details h1{
+        font-size: 30px;
+    }
+    .inside-service-details p{
+        font-size: 16px;
+    }
+    .container_slider_web_page {
+        margin: 0 auto!important;
+    }
+    .tittle-service-contact {
+        font-size: 40px;
+    }
+    .links-contact-service {
+        width: 50%;
+    }
+    .go-back-button a {
+        font-size: 14px;
+    }
+}
+
+/*---------------------------------815 WIDTH-------------------------*/
+@media screen and (max-width: 815px){
+    .links-contact-service a {
+        font-size: 12px;
+        width: 100px;
+    }
+    .links-contact-service p {
+        margin: 4% auto !important;
+    }
+    .service-email-link{
+        width: 40px;
+        margin: auto 20px;
+    }
+    .service-messenger-link{
+        width: 40px;
+        margin: auto 20px;
+    }
+    .service-whatsapp-link{
+        width: 40px;
+        margin: auto 20px;
+    }
+    .inside-service-details p {
+        font-size: 12px;
+    }
+    .slider_web {
+        height: 300px;
+    }
+    .tittle-service-contact {
+        font-size: 30px;
+    }
+    .go-back-button a {
+        font-size: 12px;
+    }
+    .web-development-container {
+        margin: 100px auto auto auto;
+    }
+}
+
+/*---------------------------------720 WIDTH-------------------------*/
+@media screen and (max-width: 720px){
+    /* NOTHING */
+}
+
+/*---------------------------------615 WIDTH-------------------------*/
+@media screen and (max-width: 615px){
+    .slider_web {
+        height: 230px;
+    }
+    .inside-service-tittle {
+        width: 80%;
+    }
+    .links-contact-service {
+        width: 60%;
+    }
+}
+
+/*---------------------------------419 WIDTH -------------------------*/
+@media screen and (max-width: 419px){
+    .inside-service-tittle {
+        font-size: 25px;
+    }
+    .inside-service-details {
+        width: 90%;
+    }
+    .inside-service-details h1 {
+        font-size: 20px;
+    }
+    .inside-service-details p {
+        font-size: 11px;
+    }
+    .tittle-service-contact {
+        font-size: 25px;
+    }
+    .links-contact-service {
+        width: 70%;
+    }
+    .links-contact-service a {
+        font-size: 11px;
+        width: 80px;
+    }
+    .service-email-link{
+        width: 30px;
+    }
+    .service-messenger-link{
+        width: 30px;
+    }
+    .service-whatsapp-link{
+        width: 30px;
+    }
+    .go-back-button a {
+        width: 170px;
+        font-size: 11px;
+    }
+}
+
+/* ---------------------------------------- CONSOLAS.HTML ---------------------------------------- */
+/*---------------------------------1290 WIDTH-------------------------*/
+@media screen and (max-width: 1290px){
+    .menu a {
+        font-size: 18px;
+    }
+    .consoles-list img {
+        width: 400px;
+    }
+}
+/*---------------------------------1090 WIDTH-------------------------*/
+@media screen and (max-width: 1090px){
+    .consoles-service-tittle {
+        font-size: 100px;
+    }
+    .consoles-service-banner {
+        height: 300px;
+    }
+    .logo-container {
+        margin-left: 10%;
+    }
+    .menu {
+        margin-right: 5%;
+    }
+    .consoles-list img {
+        width: 300px;
+    }
+    .ps3-section-content, .ps2-section-content, .wii-section-content {
+        width: 90%;
+    }
+}
+
+/*---------------------------------900 WIDTH-------------------------*/
+@media screen and (max-width: 900px){
+    .menu a {
+        font-size: 16px;
+    }
+    .section-tittle {
+        font-size: 70px;
+    }
+    .ps3-section-content, .ps2-section-content, .wii-section-content p{
+        font-size: 14px;
+    }
+}
+
+/*---------------------------------815 WIDTH-------------------------*/
+@media screen and (max-width: 815px){
+    .consoles-service-banner {
+        height: 250px;
+    }
+    .consoles-service-tittle {
+        font-size: 80px;
+    }
+    .consoles-list img {
+        width: 250px;
+    }
+    .section-tittle {
+        font-size: 60px;
+    }
+    .send-message {
+        margin: 4% auto;
+        padding: 2% 0px;
+        width: 50%;
+    }
+    .send-message p{
+        font-size: 14px !important;
+    }
+}
+
+/*---------------------------------720 WIDTH-------------------------*/
+@media screen and (max-width: 720px){
+    .consoles-list {
+        flex-direction: column;
+        row-gap: 40px;
+    }
+    .ps3-section-content, .ps2-section-content, .wii-section-content {
+        flex-direction: column;
+    }
+    .ps3-col {
+        flex: 100%;
+        max-width: 100%; 
+        padding: 0 4px;
+    }
+    .ps3-section-content div:nth-child(1) img {
+        display: block;
+        margin: auto;
+        width: 60%;
+    }
+    .ps3-section-content div:nth-child(2) img {
+        display: none;
+    }
+    .ps3-section-content div:nth-child(2){
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .ps2-col {
+        flex: 100%;
+        max-width: 100%; 
+        padding: 0 4px;
+    }
+    .ps2-section-content div:nth-child(1) img {
+        display: block;
+        margin: auto;
+        width: 60%;
+    }
+    .ps2-section-content div:nth-child(2) img {
+        display: none;
+    }
+    .ps2-section-content div:nth-child(2){
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .wii-col {
+        flex: 100%;
+        max-width: 100%; 
+        padding: 0 4px;
+    }
+    .wii-section-content div:nth-child(1) img {
+        display: block;
+        margin: auto;
+        width: 60%;
+    }
+}
+
+/*---------------------------------615 WIDTH-------------------------*/
+@media screen and (max-width: 615px){
+    .toggle {
+        right: 50px;
+    }
+    .section-tittle {
+        font-size: 50px;
+    }
+    .consoles-service-tittle {
+        font-size: 60px;
+    }
+    .consoles-service-banner {
+        height: 200px;
+    }
+    .send-message {
+        width: 70%;
+    }
+}
+
+/*---------------------------------419 WIDTH -------------------------*/
+@media screen and (max-width: 419px){
+    .consoles-service-container {
+        margin: 100px auto auto auto;
+    }
+    .consoles-service-tittle {
+        font-size: 50px;
+    }
+    .consoles-service-banner {
+        height: 150px;
+    }
+    .consoles-list img {
+        width: 200px;
+    }
+    .section-tittle {
+        font-size: 30px;
+    }
+    .ps3-section-content div:nth-child(1) img {
+        width: 70%;
+    }
+    .ps2-section-content div:nth-child(1) img {
+        width: 70%;
+    }
+    .ps3-section-content, .ps2-section-content, .wii-section-content p {
+        font-size: 12px;
+    }
+    .wii-section-content div:nth-child(1) img {
+        width: 70%;
+    }
+    .send-message p {
+        font-size: 12px !important;
+    }
+}
+
+/*------------------------------------------------------------------- END  -------------------------------------------------------------------*/
+/*---------------------------------1366 WIDTH-------------------------*/
+@media screen and (max-width: 1366px){
+    
+}
+
+/*---------------------------------1290 WIDTH-------------------------*/
+@media screen and (max-width: 1290px){
+    
+}
+
+/*---------------------------------1090 WIDTH-------------------------*/
+@media screen and (max-width: 1090px){
+    
+}
+
+/*---------------------------------900 WIDTH-------------------------*/
+@media screen and (max-width: 900px){
+    
+}
+
+/*---------------------------------815 WIDTH-------------------------*/
+@media screen and (max-width: 815px){
+
+}
+
+/*---------------------------------720 WIDTH-------------------------*/
+@media screen and (max-width: 720px){
+
+}
+
+/*---------------------------------615 WIDTH-------------------------*/
+@media screen and (max-width: 615px){
+
+}
+
+/*---------------------------------419 WIDTH -------------------------*/
+@media screen and (max-width: 419px){
+    
+}
