@@ -1,0 +1,26 @@
+.menu{
+    display: block;
+    margin: auto;
+}
+.menu img{
+    width: 60%;
+    display: block;
+    margin: 50px auto 50px auto;
+}
+@media (max-width: 2250px){
+    .menu img{
+        width: 60%;
+    }   
+}
+
+@media (max-width: 1080px){
+    .menu img{
+        width: 80%;
+    }    
+}
+
+@media (max-width: 720px){
+    .menu img{
+        width: 90%;
+    }    
+}
