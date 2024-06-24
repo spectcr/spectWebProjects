@@ -1,0 +1,61 @@
+/*Fonts of the page*/
+
+/*-----------------------------------------------------------------------------------------------*/
+/*--------------------------------------GOTHAM---------------------------------------------------*/
+/*-----------------------------------------------------------------------------------------------*/
+@font-face {
+	font-family:Gotham-Medium;
+	src: url(../fonts/Gotham-font/GothamMedium.ttf) format('truetype');
+}
+
+@font-face {
+	font-family:Gotham-Bold;
+	src: url(../fonts/Gotham-font/GothamBold.ttf) format('truetype');
+}
+
+/*-----------------------------------------------------------------------------------------------*/
+/*--------------------------------------OpenSans-------------------------------------------------*/
+/*-----------------------------------------------------------------------------------------------*/
+@font-face {
+	font-family:OpenSans-Medium;
+	src: url(../fonts/OpenSans-font/OpenSans-Medium.ttf) format('truetype');
+}
+
+@font-face {
+	font-family:OpenSans-Bold;
+	src: url(../fonts/OpenSans-font/OpenSans-Bold.ttf) format('truetype');
+}
+
+/*-----------------------------------------------------------------------------------------------*/
+/*--------------------------------------MONTSERRAT-----------------------------------------------*/
+/*-----------------------------------------------------------------------------------------------*/
+@font-face {
+	font-family:Montserrat-Medium;
+	src: url(../fonts/Montserrat-font/Montserrat-Medium.ttf) format('truetype');
+}
+
+@font-face {
+	font-family:Montserrat-Light;
+	src: url(../fonts/Montserrat-font/Montserrat-Light.ttf) format('truetype');
+}
+
+@font-face {
+	font-family:Montserrat-Bold;
+	src: url(../fonts/Montserrat-font/Montserrat-Bold.ttf) format('truetype');
+}
+
+/*-----------------------------------------------------------------------------------------------*/
+/*--------------------------------------BEBAS NEUE-----------------------------------------------*/
+/*-----------------------------------------------------------------------------------------------*/
+@font-face {
+	font-family:Bebas-Neue-Regular;
+	src: url(../fonts/Bebas-neue-font/BebasNeue\ Regular.ttf) format('truetype');
+}
+@font-face {
+	font-family:Bebas-Neue-Bold;
+	src: url(../fonts/Bebas-neue-font/BebasNeue\ Bold.ttf) format('truetype');
+}
+@font-face {
+	font-family:Bebas-Neue-Thin;
+	src: url(../fonts/Bebas-neue-font/BebasNeue\ Thin.ttf) format('truetype');
+}
