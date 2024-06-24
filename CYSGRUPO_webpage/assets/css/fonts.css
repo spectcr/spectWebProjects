@@ -1,0 +1,39 @@
+@font-face {
+    font-family:Gibson;
+    src: url(../fonts/Gibson.ttf) format('truetype');
+}
+@font-face {
+    font-family:Gibson-Bold;
+    src: url(../fonts/Gibson-bold.ttf);
+}
+
+@font-face {
+    font-family:GeosansLight;
+    src: url(../fonts/GeosansLight.ttf) format('truetype');
+}
+
+/* -----------------------------GEOSANS----------------------------- */
+@font-face {
+    font-family:GeoSans-Light;
+    src: url(../fonts/GeoSans/GeoSans-Light.ttf) format('truetype');
+}
+/* -----------------------------GILROY----------------------------- */
+@font-face {
+    font-family:Gilroy-Thin;
+    src: url(../fonts/Gilroy/Gilroy-Thin.ttf) format('truetype');
+}
+@font-face {
+    font-family:Gilroy-Light;
+    src: url(../fonts/Gilroy/Gilroy-Light.ttf) format('truetype');
+}
+
+/* -----------------------------MONTSERRAT----------------------------- */
+@font-face {
+    font-family:Montserrat-Light;
+    src: url(../fonts/Montserrat/Montserrat-Light.ttf) format('truetype');
+}
+
+@font-face {
+    font-family:Montserrat-Bold;
+    src: url(../fonts/Montserrat/Montserrat-Bold.ttf) format('truetype');
+}
