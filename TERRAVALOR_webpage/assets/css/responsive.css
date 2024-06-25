@@ -71,10 +71,10 @@
 }
 
 @media screen and (max-width: 1290px){
-    .not-aviable{
+    /* .not-aviable{
         opacity: 1;
         visibility: visible;
-    }
+    } */
     .description_a {
         margin-right: 10%;
     }
@@ -90,19 +90,35 @@
 }
 
 @media screen and (max-width: 1090px){
-    .not-aviable{
+    /* .not-aviable{
         opacity: 1;
         visibility: visible;
-    }
+    } */
+
     .menu_bar {
-        margin-right: 10%;
+        margin-right: 8vh;
+    }.menu_item {
+        font-size: 15px;
     }
-    .about_us h1 {
-        font-size: 60px;
+    
+    .about-us-container p {
+        font-size: 12px;
+    }.about_us h1 {
+        font-size: 50px;
     }
+    
     .services h1 {
-        font-size: 70px;
+        font-size: 50px;
+    }.slider-services-container .slide .content h2 {
+        font-size: 30px;
+    }.content p {
+        font-size: 12px;
+    }.thumbnail .item img {
+        width: 30px;
+    }.item{
+        margin: 0px 2px;
     }
+
     .service_a h1 {
         font-size: 40px;
     }
@@ -121,81 +137,82 @@
     .service_c p {
         font-size: 22px;
     }
-    .contact_us p {
-        font-size: 22px;
+    
+    .contact-us h1 {
+        font-size: 50px;
     }
+    .contact_us p {
+        font-size: 18px;
+    }
+
+    .contact-sources--right-col {
+        width: 50%;
+    }
+
     .links {
         margin: 9% 4%;
     }
 }
 
 @media screen and (max-width: 900px){
-    .not-aviable{
+    /* .not-aviable{
         opacity: 1;
         visibility: visible;
+    } */
+
+    .logo_container {
+        width: 15vh;
+        margin-left: 12vh;
     }
-    .menu_bar {
-        margin-right: 0%;
-        width: 100%;
-    }
-    .menu_item {
-        font-size: 20px;
-    }
-    .boton_a {
-        font-size: 18px;
-    }
-    .index_buttons {
-        padding: 2% 5%;
-    }
-    .about_us {
-        padding: 15% 6%;
-    }
-    .about_us h1 {
+    
+    .principal-landing h1 {
         font-size: 50px;
+        margin-top: 45vh;
     }
-    .contact_us {
-        padding: 15% 5%;
+
+    .services h1 {
+        font-size: 45px;
     }
-    .contact_us h1 {
-        font-size: 60px;
-        margin-top: 20%;
+
+    .contact-us h1 {
+        font-size: 45px;
     }
-    .contact_us p {
-        font-size: 18px;
+
+    .contact-sources--left-col {
+        margin: auto 10%;
     }
-    .form_contact_us p {
-        padding-bottom: 13%;
-    }
-    .form_contact_us label {
-        font-size: 18px;
-    }
-    .links {
-        margin: 9% 0%;
+
+    .contact-sources--right-col {
+        width: 40%;
+        height: min-content !important;
+    }.Facebook, .Email, .WhatsApp, .Instagram{
+        width: 40px;
+    }.links {
+        margin: 0px 0px;
+    }.links li {
+        padding: 0px 0px;
     }
 }
 
 @media screen and (max-width: 815px){
-    .not-aviable{
+    /* .not-aviable{
         opacity: 1;
         visibility: visible;
-    }
-    .menu_bar{
+    } */
+     
+    /* .menu_bar{
         opacity: 0;
         transition: 1s ease-in-out;
         display: none;
-    }
-    .toggle{
+    } */
+
+    /* -[]TODO
+    Implementar toggle bar */
+    
+    /* .toggle{
         opacity: 1;
-    }
-    .about_us {
-        padding: 20% 5%;
-    }
-    .services {
-        padding: 20% 5%;
-    }
-    .contact_us {
-        padding: 20% 5%;
-    }
+    } */
+    
 }
 
 @media screen and (max-width: 720px){
